@@ -19,6 +19,10 @@ Homebrew formulae for [Jamdesk](https://jamdesk.com) CLI - the command-line tool
 ## Installation
 
 ```bash
+# One-liner
+brew install jamdesk/tap/jamdesk
+
+# Or tap first, then install
 brew tap jamdesk/tap
 brew install jamdesk
 ```
