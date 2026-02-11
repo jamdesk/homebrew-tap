@@ -81,7 +81,7 @@ irm https://get.jamdesk.com/win | iex
 
 ## Support
 
-- Issues: [github.com/jamdesk/jamdesk-builder/issues](https://github.com/jamdesk)
+- Issues: [github.com/jamdesk/jamdesk/issues](https://github.com/jamdesk/jamdesk/issues)
 
 ## License
 
