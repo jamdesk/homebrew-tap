@@ -1,6 +1,6 @@
 # Jamdesk Homebrew Tap
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](./LICENSE)
 
 Homebrew formulae for [Jamdesk](https://www.jamdesk.com) CLI - the command-line tool for building and managing documentation sites.
 
@@ -85,4 +85,4 @@ irm https://get.jamdesk.com/win | iex
 
 ## License
 
-MIT
+Apache 2.0
