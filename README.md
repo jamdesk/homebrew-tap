@@ -2,11 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
-Homebrew formulae for [Jamdesk](https://jamdesk.com) CLI - the command-line tool for building and managing documentation sites.
+Homebrew formulae for [Jamdesk](https://www.jamdesk.com) CLI - the command-line tool for building and managing documentation sites.
 
 ## What is Jamdesk?
 
-[Jamdesk](https://jamdesk.com) is a documentation platform that transforms MDX (Markdown + React components) into polished documentation websites. The CLI lets you preview docs locally, validate content, and manage your documentation workflow from the terminal.
+[Jamdesk](https://www.jamdesk.com) is a documentation platform that transforms MDX (Markdown + React components) into polished documentation websites. The CLI lets you preview docs locally, validate content, and manage your documentation workflow from the terminal.
 
 **What the CLI does:**
 - `jamdesk dev` - Preview documentation locally with hot reload
@@ -14,7 +14,7 @@ Homebrew formulae for [Jamdesk](https://jamdesk.com) CLI - the command-line tool
 - `jamdesk broken-links` - Find broken internal links
 - `jamdesk init` - Initialize a new documentation project
 
-**New to Jamdesk?** Check out the [documentation](https://jamdesk.com/docs) or the [quickstart guide](https://jamdesk.com/docs/quickstart) to get started.
+**New to Jamdesk?** Check out the [documentation](https://www.jamdesk.com/docs) or the [quickstart guide](https://www.jamdesk.com/docs/quickstart) to get started.
 
 ## Installation
 
@@ -75,13 +75,13 @@ irm https://get.jamdesk.com/win | iex
 
 ## Documentation
 
-- [Jamdesk Documentation](https://jamdesk.com/docs) - Full platform docs
-- [CLI Reference](https://jamdesk.com/docs/cli/overview) - All CLI commands
-- [Local Development](https://jamdesk.com/docs/development/local-preview) - Preview docs locally
+- [Jamdesk Documentation](https://www.jamdesk.com/docs) - Full platform docs
+- [CLI Reference](https://www.jamdesk.com/docs/cli/overview) - All CLI commands
+- [Local Development](https://www.jamdesk.com/docs/development/local-preview) - Preview docs locally
 
 ## Support
 
-- Issues: [github.com/jamdesk/jamdesk-builder/issues](https://github.com/jamdesk/jamdesk-builder/issues)
+- Issues: [github.com/jamdesk/jamdesk-builder/issues](https://github.com/jamdesk)
 
 ## License
 
