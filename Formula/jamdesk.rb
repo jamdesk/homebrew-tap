@@ -1,8 +1,8 @@
 class Jamdesk < Formula
   desc "Documentation platform CLI"
   homepage "https://www.jamdesk.com"
-  url "https://registry.npmjs.org/jamdesk/-/jamdesk-1.1.185.tgz"
-  sha256 "9a1841d6374be26e3ce490911df97f8b51910364e8c034cbe3123434f0808bda"
+  url "https://registry.npmjs.org/jamdesk/-/jamdesk-1.1.186.tgz"
+  sha256 "08ec25f2f57bc6ec561d54f1615cff56986f3627dd596f0ad7747df824899eae"
   license "Apache-2.0"
 
   depends_on "node"
